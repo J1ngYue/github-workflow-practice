@@ -1,2 +1,19 @@
-# github-workflow-practice
-A small learning repository for GitHub branches, pull requests, and achievement verification.
+# GitHub Workflow Practice
+
+这个小仓库用于练习 GitHub 分支、Pull Request（PR）和合并流程，并记录成就条件的验证。
+
+## 一次完整的 PR 流程
+
+1. 从默认分支创建一个描述清晰的功能分支。
+2. 做一项具体修改，检查内容后提交。
+3. 推送分支，创建 PR，说明解决的问题和验证结果。
+4. 检查 PR 的差异，再合并到默认分支。
+5. 更新本地默认分支，让本地和远程保持一致。
+
+## 本仓库的练习
+
+- 补充这份 PR 流程说明。
+- 添加适合 Windows PowerShell 的 Git 操作参考。
+
+文档练习可以自行检查后合并。正式项目是否需要审查，应遵循项目自己的贡献规则。
+GitHub 成就的发放由 GitHub 后台处理，完成操作不代表徽章已经显示。
